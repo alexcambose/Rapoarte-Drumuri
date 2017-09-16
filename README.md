@@ -2,7 +2,7 @@
 **Rapoarte Drumuri** (Roads Reports) is meant to help drivers who are tired of unexpected events on Romanian roads. With this app anyone can report a closed, broken, in repair or dangerous road so that other drivers are aware of the problem.
 
 ### Links
-Google Play coming soon
+[Google Play](https://play.google.com/store/apps/details?id=com.rapoarte_drumuri)
 
 ### Docs
 This app is made out of two parts
